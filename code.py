@@ -1,3 +1,11 @@
+
+'''
+Gameplay:
+Categories: The hidden word can belong to one of five categories: Fruits, Coding, Movies, Animals, or Stationary.
+Scoring System: Players earn points for correct guesses and can use hints at the cost of points.
+Hints: Two types of hints are available: the first letter of the word and the length of the word.
+'''
+
 import tkinter as tk
 import random
 from tkinter import messagebox
